@@ -2,7 +2,8 @@
 
 # Problem :
 
-### After writing touch listener for spinner when I press/touch spinner then the search dialog fragment opens 3 4 times instead of opening 1 time.
+### After writing touch listener for spinner 
+when I press/touch spinner then the search dialog fragment opens 3 4 times instead of opening 1 time.
 
 
 # How you fix it :
